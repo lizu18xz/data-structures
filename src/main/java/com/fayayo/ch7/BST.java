@@ -1,4 +1,4 @@
-package com.fayayo.ch6;
+package com.fayayo.ch7;
 
 import java.util.LinkedList;
 import java.util.Queue;
